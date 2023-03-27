@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import Section from './Section';
+import Section from '../Section/Section';
 
 const FeedbackOptions = ({ options, onLeaveFeedBack }) => {
   return (
