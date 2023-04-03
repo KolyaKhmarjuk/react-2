@@ -1,8 +1,8 @@
 {
-  "name": "react-2-widget",
+  "name": "react-2-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KolyaKhmarjuk.github.io/react-2-widget/",
+  "homepage": "https://KolyaKhmarjuk.github.io/react-2-feedback/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
